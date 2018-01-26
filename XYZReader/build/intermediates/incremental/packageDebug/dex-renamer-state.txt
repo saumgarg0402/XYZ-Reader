@@ -1,0 +1,7 @@
+#Fri Jan 26 15:19:49 IST 2018
+base.0=/Users/saumgarg/projects/xyz-reader-starter-code/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_806a5ebeccdfcf88f9f80c84fa16bd88200da902
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/saumgarg/projects/xyz-reader-starter-code/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a7b2e10d4f1ccb1fda2ea494eb4025549bbe53aa/classes.dex
+base.1=/Users/saumgarg/projects/xyz-reader-starter-code/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a7b2e10d4f1ccb1fda2ea494eb4025549bbe53aa
+file.0=/Users/saumgarg/projects/xyz-reader-starter-code/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_806a5ebeccdfcf88f9f80c84fa16bd88200da902/classes.dex

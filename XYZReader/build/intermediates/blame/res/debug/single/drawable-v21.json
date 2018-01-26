@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/saumgarg/projects/xyz-reader-starter-code/XYZReader/build/intermediates/res/merged/debug/drawable-v21/white_selectable_item_background_circle.xml",
+        "source": "/Users/saumgarg/projects/xyz-reader-starter-code/XYZReader/src/main/res/drawable-v21/white_selectable_item_background_circle.xml"
+    },
+    {
+        "merged": "/Users/saumgarg/projects/xyz-reader-starter-code/XYZReader/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/Users/saumgarg/.android/build-cache/2e11bd9f3d73d57015173ff04416e2b674636033/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/saumgarg/projects/xyz-reader-starter-code/XYZReader/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/saumgarg/.android/build-cache/416d05ff22a401e00f8a0e5f9415fab0e8360a28/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/saumgarg/projects/xyz-reader-starter-code/XYZReader/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/saumgarg/.android/build-cache/416d05ff22a401e00f8a0e5f9415fab0e8360a28/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/saumgarg/projects/xyz-reader-starter-code/XYZReader/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/saumgarg/.android/build-cache/bfba5d4f39d96ec57f1dbf5f671bf2695e655af4/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/saumgarg/projects/xyz-reader-starter-code/XYZReader/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/saumgarg/.android/build-cache/416d05ff22a401e00f8a0e5f9415fab0e8360a28/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/saumgarg/projects/xyz-reader-starter-code/XYZReader/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/Users/saumgarg/.android/build-cache/2e11bd9f3d73d57015173ff04416e2b674636033/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/Users/saumgarg/projects/xyz-reader-starter-code/XYZReader/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/Users/saumgarg/.android/build-cache/2e11bd9f3d73d57015173ff04416e2b674636033/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/Users/saumgarg/projects/xyz-reader-starter-code/XYZReader/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/saumgarg/.android/build-cache/2e11bd9f3d73d57015173ff04416e2b674636033/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    }
+]
