@@ -52,10 +52,6 @@
         "source": "/Users/saumgarg/projects/XYZ-Reader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/layout/abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "/Users/saumgarg/projects/XYZ-Reader/XYZReader/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
-        "source": "/Users/saumgarg/projects/XYZ-Reader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/layout/notification_action_tombstone.xml"
-    },
-    {
         "merged": "/Users/saumgarg/projects/XYZ-Reader/XYZReader/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
         "source": "/Users/saumgarg/projects/XYZ-Reader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/layout/select_dialog_item_material.xml"
     },
@@ -156,10 +152,6 @@
         "source": "/Users/saumgarg/projects/XYZ-Reader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/layout/abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "/Users/saumgarg/projects/XYZ-Reader/XYZReader/build/intermediates/res/merged/debug/layout/notification_action.xml",
-        "source": "/Users/saumgarg/projects/XYZ-Reader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/layout/notification_action.xml"
-    },
-    {
         "merged": "/Users/saumgarg/projects/XYZ-Reader/XYZReader/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
         "source": "/Users/saumgarg/projects/XYZ-Reader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/layout/notification_template_part_time.xml"
     },
@@ -206,10 +198,6 @@
     {
         "merged": "/Users/saumgarg/projects/XYZ-Reader/XYZReader/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
         "source": "/Users/saumgarg/projects/XYZ-Reader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.1.0/res/layout/notification_template_big_media_narrow.xml"
-    },
-    {
-        "merged": "/Users/saumgarg/projects/XYZ-Reader/XYZReader/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
-        "source": "/Users/saumgarg/projects/XYZ-Reader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/layout/notification_template_icon_group.xml"
     },
     {
         "merged": "/Users/saumgarg/projects/XYZ-Reader/XYZReader/build/intermediates/res/merged/debug/layout/list_item_article.xml",

@@ -44,10 +44,6 @@
         "source": "/Users/saumgarg/projects/XYZ-Reader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "/Users/saumgarg/projects/XYZ-Reader/XYZReader/build/intermediates/res/merged/debug/drawable/design_bottom_navigation_item_background.xml",
-        "source": "/Users/saumgarg/projects/XYZ-Reader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/drawable/design_bottom_navigation_item_background.xml"
-    },
-    {
         "merged": "/Users/saumgarg/projects/XYZ-Reader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
         "source": "/Users/saumgarg/projects/XYZ-Reader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_tab_indicator_material.xml"
     },
@@ -62,14 +58,6 @@
     {
         "merged": "/Users/saumgarg/projects/XYZ-Reader/XYZReader/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
         "source": "/Users/saumgarg/projects/XYZ-Reader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/drawable/notification_bg_low.xml"
-    },
-    {
-        "merged": "/Users/saumgarg/projects/XYZ-Reader/XYZReader/build/intermediates/res/merged/debug/drawable/white_selectable_item_background_circle.xml",
-        "source": "/Users/saumgarg/projects/XYZ-Reader/XYZReader/src/main/res/drawable/white_selectable_item_background_circle.xml"
-    },
-    {
-        "merged": "/Users/saumgarg/projects/XYZ-Reader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
-        "source": "/Users/saumgarg/projects/XYZ-Reader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_btn_colored_material.xml"
     },
     {
         "merged": "/Users/saumgarg/projects/XYZ-Reader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
@@ -140,10 +128,6 @@
         "source": "/Users/saumgarg/projects/XYZ-Reader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_ic_voice_search_api_material.xml"
     },
     {
-        "merged": "/Users/saumgarg/projects/XYZ-Reader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
-        "source": "/Users/saumgarg/projects/XYZ-Reader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_edit_text_material.xml"
-    },
-    {
         "merged": "/Users/saumgarg/projects/XYZ-Reader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
         "source": "/Users/saumgarg/projects/XYZ-Reader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_item_background_holo_light.xml"
     },
@@ -162,10 +146,6 @@
     {
         "merged": "/Users/saumgarg/projects/XYZ-Reader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
         "source": "/Users/saumgarg/projects/XYZ-Reader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_ic_ab_back_material.xml"
-    },
-    {
-        "merged": "/Users/saumgarg/projects/XYZ-Reader/XYZReader/build/intermediates/res/merged/debug/drawable/design_password_eye.xml",
-        "source": "/Users/saumgarg/projects/XYZ-Reader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/drawable/design_password_eye.xml"
     },
     {
         "merged": "/Users/saumgarg/projects/XYZ-Reader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",

@@ -83,13 +83,13 @@ public final class R {
 		public static final int action_divider = 0x7f0e00b0;
 		public static final int action_image = 0x7f0e00aa;
 		public static final int action_text = 0x7f0e00ab;
-		public static final int actions = 0x7f0e00b9;
+		public static final int actions = 0x7f0e00b8;
 		public static final int async = 0x7f0e0046;
 		public static final int blocking = 0x7f0e0047;
 		public static final int chronometer = 0x7f0e00b5;
 		public static final int forever = 0x7f0e0048;
 		public static final int icon = 0x7f0e0061;
-		public static final int icon_group = 0x7f0e00ba;
+		public static final int icon_group = 0x7f0e00b9;
 		public static final int info = 0x7f0e00b6;
 		public static final int italic = 0x7f0e0049;
 		public static final int item_touch_helper_previous_elevation = 0x7f0e0006;
@@ -99,7 +99,7 @@ public final class R {
 		public static final int notification_background = 0x7f0e00b7;
 		public static final int notification_main_column = 0x7f0e00b2;
 		public static final int notification_main_column_container = 0x7f0e00b1;
-		public static final int right_icon = 0x7f0e00b8;
+		public static final int right_icon = 0x7f0e00ba;
 		public static final int right_side = 0x7f0e00b3;
 		public static final int text = 0x7f0e0010;
 		public static final int text2 = 0x7f0e0011;
