@@ -1,6 +1,6 @@
 [
     {
-        "merged": "/Users/saumgarg/projects/xyz-reader-starter-code/XYZReader/build/intermediates/res/merged/debug/layout-v26/abc_screen_toolbar.xml",
-        "source": "/Users/saumgarg/.android/build-cache/416d05ff22a401e00f8a0e5f9415fab0e8360a28/output/res/layout-v26/abc_screen_toolbar.xml"
+        "merged": "/Users/saumgarg/projects/XYZ-Reader/XYZReader/build/intermediates/res/merged/debug/layout-v26/abc_screen_toolbar.xml",
+        "source": "/Users/saumgarg/projects/XYZ-Reader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/layout-v26/abc_screen_toolbar.xml"
     }
 ]

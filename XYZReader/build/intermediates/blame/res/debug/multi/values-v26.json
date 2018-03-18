@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/saumgarg/projects/xyz-reader-starter-code/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v26/values-v26.xml",
+        "outputFile": "/Users/saumgarg/projects/XYZ-Reader/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v26/values-v26.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 125
                 },
                 "from": {
-                    "file": "/Users/saumgarg/.android/build-cache/416d05ff22a401e00f8a0e5f9415fab0e8360a28/output/res/values-v26/values-v26.xml",
+                    "file": "/Users/saumgarg/projects/XYZ-Reader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v26/values-v26.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 212
                 },
                 "from": {
-                    "file": "/Users/saumgarg/.android/build-cache/416d05ff22a401e00f8a0e5f9415fab0e8360a28/output/res/values-v26/values-v26.xml",
+                    "file": "/Users/saumgarg/projects/XYZ-Reader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v26/values-v26.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -50,7 +50,7 @@
                     "endOffset": 426
                 },
                 "from": {
-                    "file": "/Users/saumgarg/.android/build-cache/416d05ff22a401e00f8a0e5f9415fab0e8360a28/output/res/values-v26/values-v26.xml",
+                    "file": "/Users/saumgarg/projects/XYZ-Reader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v26/values-v26.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -71,7 +71,7 @@
                     "endOffset": 652
                 },
                 "from": {
-                    "file": "/Users/saumgarg/.android/build-cache/416d05ff22a401e00f8a0e5f9415fab0e8360a28/output/res/values-v26/values-v26.xml",
+                    "file": "/Users/saumgarg/projects/XYZ-Reader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v26/values-v26.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -92,7 +92,7 @@
                     "endOffset": 891
                 },
                 "from": {
-                    "file": "/Users/saumgarg/.android/build-cache/416d05ff22a401e00f8a0e5f9415fab0e8360a28/output/res/values-v26/values-v26.xml",
+                    "file": "/Users/saumgarg/projects/XYZ-Reader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v26/values-v26.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -113,7 +113,7 @@
                     "endOffset": 1135
                 },
                 "from": {
-                    "file": "/Users/saumgarg/.android/build-cache/2e11bd9f3d73d57015173ff04416e2b674636033/output/res/values-v26/values-v26.xml",
+                    "file": "/Users/saumgarg/projects/XYZ-Reader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/values-v26/values-v26.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -133,7 +133,7 @@
                     "endOffset": 1228
                 },
                 "from": {
-                    "file": "/Users/saumgarg/.android/build-cache/416d05ff22a401e00f8a0e5f9415fab0e8360a28/output/res/values-v26/values-v26.xml",
+                    "file": "/Users/saumgarg/projects/XYZ-Reader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-v26/values-v26.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -152,7 +152,7 @@
                     "endOffset": 1325
                 },
                 "from": {
-                    "file": "/Users/saumgarg/.android/build-cache/2e11bd9f3d73d57015173ff04416e2b674636033/output/res/values-v26/values-v26.xml",
+                    "file": "/Users/saumgarg/projects/XYZ-Reader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/values-v26/values-v26.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,

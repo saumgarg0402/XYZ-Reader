@@ -1,14 +1,14 @@
 [
     {
-        "merged": "/Users/saumgarg/projects/xyz-reader-starter-code/XYZReader/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_arrow_back.png",
-        "source": "/Users/saumgarg/projects/xyz-reader-starter-code/XYZReader/src/main/res/drawable-xxhdpi/ic_arrow_back.png"
+        "merged": "/Users/saumgarg/projects/XYZ-Reader/XYZReader/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_share.png",
+        "source": "/Users/saumgarg/projects/XYZ-Reader/XYZReader/src/main/res/drawable-xxhdpi/ic_share.png"
     },
     {
-        "merged": "/Users/saumgarg/projects/xyz-reader-starter-code/XYZReader/build/intermediates/res/merged/debug/drawable-xxhdpi/logo.png",
-        "source": "/Users/saumgarg/projects/xyz-reader-starter-code/XYZReader/src/main/res/drawable-xxhdpi/logo.png"
+        "merged": "/Users/saumgarg/projects/XYZ-Reader/XYZReader/build/intermediates/res/merged/debug/drawable-xxhdpi/logo.png",
+        "source": "/Users/saumgarg/projects/XYZ-Reader/XYZReader/src/main/res/drawable-xxhdpi/logo.png"
     },
     {
-        "merged": "/Users/saumgarg/projects/xyz-reader-starter-code/XYZReader/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_share.png",
-        "source": "/Users/saumgarg/projects/xyz-reader-starter-code/XYZReader/src/main/res/drawable-xxhdpi/ic_share.png"
+        "merged": "/Users/saumgarg/projects/XYZ-Reader/XYZReader/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_arrow_back.png",
+        "source": "/Users/saumgarg/projects/XYZ-Reader/XYZReader/src/main/res/drawable-xxhdpi/ic_arrow_back.png"
     }
 ]

@@ -8,6 +8,7 @@ import android.content.IntentFilter;
 import android.content.Loader;
 import android.database.Cursor;
 import android.os.Bundle;
+import android.support.design.widget.Snackbar;
 import android.support.v4.widget.SwipeRefreshLayout;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.RecyclerView;
@@ -43,7 +44,7 @@ public class ArticleListActivity extends AppCompatActivity implements
     private Toolbar mToolbar;
     private SwipeRefreshLayout mSwipeRefreshLayout;
     private RecyclerView mRecyclerView;
-
+    private  Snackbar snackbar;
     private SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss.sss");
     // Use default locale format
     private SimpleDateFormat outputFormat = new SimpleDateFormat();
@@ -65,6 +66,8 @@ public class ArticleListActivity extends AppCompatActivity implements
         mRecyclerView = (RecyclerView) findViewById(R.id.recycler_view);
         getLoaderManager().initLoader(0, null, this);
 
+        snackbar = Snackbar.make(mRecyclerView,"Refreshed",Snackbar.LENGTH_SHORT);
+
         if (savedInstanceState == null) {
             refresh();
         }
@@ -79,12 +82,14 @@ public class ArticleListActivity extends AppCompatActivity implements
         super.onStart();
         registerReceiver(mRefreshingReceiver,
                 new IntentFilter(UpdaterService.BROADCAST_ACTION_STATE_CHANGE));
+        snackbar.show();
     }
 
     @Override
     protected void onStop() {
         super.onStop();
         unregisterReceiver(mRefreshingReceiver);
+        snackbar.dismiss();
     }
 
     private boolean mIsRefreshing = false;

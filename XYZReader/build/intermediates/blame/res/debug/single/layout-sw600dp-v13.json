@@ -1,6 +1,6 @@
 [
     {
-        "merged": "/Users/saumgarg/projects/xyz-reader-starter-code/XYZReader/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
-        "source": "/Users/saumgarg/.android/build-cache/2e11bd9f3d73d57015173ff04416e2b674636033/output/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+        "merged": "/Users/saumgarg/projects/XYZ-Reader/XYZReader/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/Users/saumgarg/projects/XYZ-Reader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/layout-sw600dp-v13/design_layout_snackbar.xml"
     }
 ]
